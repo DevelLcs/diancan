@@ -1,0 +1,6 @@
+com\hmall\business\domain\po\Business.class
+com\hmall\business\mapper\BusinessMapper.class
+com\hmall\business\service\impl\BusinessServiceImpl.class
+com\hmall\business\controller\BusinessController.class
+com\hmall\business\businessApplication.class
+com\hmall\business\service\IBusinessService.class
